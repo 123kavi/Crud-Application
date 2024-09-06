@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\i-contex\\Crud_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|e:\\i-contex\\crud_backend\\crud_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|solutionrelative:crud_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|e:\\i-contex\\crud_backend\\crud_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|solutionrelative:crud_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|e:\\i-contex\\crud_backend\\crud_backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|solutionrelative:crud_backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|e:\\i-contex\\crud_backend\\crud_backend\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|solutionrelative:crud_backend\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|e:\\i-contex\\crud_backend\\crud_backend\\crud_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|solutionrelative:crud_backend\\crud_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|e:\\i-contex\\crud_backend\\crud_backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96EADFF7-AAA5-43F5-9EFF-800A4B60CEE7}|Crud_backend\\Crud_backend.csproj|solutionrelative:crud_backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\i-contex\\Crud_backend\\Crud_backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud_backend\\appsettings.json",
+              "ToolTip": "E:\\i-contex\\Crud_backend\\Crud_backend\\appsettings.json",
+              "RelativeToolTip": "Crud_backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T08:29:34.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\i-contex\\Crud_backend\\Crud_backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Crud_backend\\Models\\User.cs",
+              "ToolTip": "E:\\i-contex\\Crud_backend\\Crud_backend\\Models\\User.cs",
+              "RelativeToolTip": "Crud_backend\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:24:34.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "E:\\i-contex\\Crud_backend\\Crud_backend\\Data\\UserContext.cs",
+              "RelativeDocumentMoniker": "Crud_backend\\Data\\UserContext.cs",
+              "ToolTip": "E:\\i-contex\\Crud_backend\\Crud_backend\\Data\\UserContext.cs",
+              "RelativeToolTip": "Crud_backend\\Data\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:24:29.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crud_backend.csproj",
+              "DocumentMoniker": "E:\\i-contex\\Crud_backend\\Crud_backend\\Crud_backend.csproj",
+              "RelativeDocumentMoniker": "Crud_backend\\Crud_backend.csproj",
+              "ToolTip": "E:\\i-contex\\Crud_backend\\Crud_backend\\Crud_backend.csproj",
+              "RelativeToolTip": "Crud_backend\\Crud_backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T08:22:37.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\i-contex\\Crud_backend\\Crud_backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Crud_backend\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\i-contex\\Crud_backend\\Crud_backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Crud_backend\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:23:33.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\i-contex\\Crud_backend\\Crud_backend\\Program.cs",
+              "RelativeDocumentMoniker": "Crud_backend\\Program.cs",
+              "ToolTip": "E:\\i-contex\\Crud_backend\\Crud_backend\\Program.cs",
+              "RelativeToolTip": "Crud_backend\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:21:44.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
